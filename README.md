@@ -45,6 +45,8 @@ venv\Scripts\activate
 
 ```bash
 pip install -r requirements.txt
+
+pip install pdfplumber python-docx  
 ```
 
 ---
